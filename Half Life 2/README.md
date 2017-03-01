@@ -1,7 +1,9 @@
 Half Life 2
 
-Copy Minimal.cfg in Steam/steamapps/common/Half-Life 2/hl2/cfg/
+Replace * by Minimal or Very-Low
 
-Add: exec Minimal.cfg
+Copy *.cfg in Steam/steamapps/common/Half-Life 2/hl2/cfg/
+
+Add: exec *.cfg
 
 To Steam/steamapps/common/Half-Life 2/hl2/cfg/skill_manifest.cfg
