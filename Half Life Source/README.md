@@ -1,7 +1,9 @@
 Half life: Source
 
-Copy Minimal.cfg in Steam/steamapps/common/Half-Life 2/hl1/cfg/
+Replace * by Minimal or Very-Low
 
-Add: exec Minimal.cfg
+Copy *.cfg in Steam/steamapps/common/Half-Life 2/hl1/cfg/
+
+Add: exec *.cfg
 
 To Steam/steamapps/common/Half-Life 2/hl1/cfg/autoexec.cfg
