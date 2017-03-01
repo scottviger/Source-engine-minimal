@@ -1,7 +1,9 @@
 Half Life 2 Episode 2
 
-Copy Minimal.cfg in Steam/steamapps/common/Half-Life 2/ep2/cfg/
+Replace * by Minimal or Very-Low
 
-Add: exec Minimal.cfg
+Copy *.cfg in Steam/steamapps/common/Half-Life 2/ep2/cfg/
+
+Add: exec *.cfg
 
 To Steam/steamapps/common/Half-Life 2/ep2/cfg/skill_episodic.cfg
